@@ -1,1 +1,3 @@
-console.info(11111);
+function test(){
+  console.info(11111);
+}
